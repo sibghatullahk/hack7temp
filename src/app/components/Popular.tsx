@@ -3,7 +3,7 @@ import { FaHeart } from "react-icons/fa";
 import Link from "next/link";
 
 const Popular = () => {
-  // Array containing car details
+ 
   const cars = [
     {
       src: "/crv.png",

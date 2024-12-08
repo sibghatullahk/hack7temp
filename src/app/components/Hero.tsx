@@ -5,7 +5,8 @@ const Hero = () => {
   return (
     <div className="p-4">
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-1 sm:grid-rows-2 lg:grid-cols-2 lg:grid-rows-1 items-center mt-4">
-        {/* Card 1 */}
+
+    
         <div className="p-6 bg-blue-300 flex flex-col items-start rounded-lg shadow-lg min-h-[400px]">
           <h2 className="text-2xl font-bold mb-2 text-white">
             The Best Platform for Car Rental
@@ -30,7 +31,7 @@ const Hero = () => {
           </button>
         </div>
 
-        {/* Card 2 */}
+     
         <div className="p-6 bg-blue-300 flex flex-col items-start rounded-lg shadow-lg min-h-[400px]">
           <h2 className="text-2xl font-bold mb-2 text-white">
             Easy way to rent a car at a low price

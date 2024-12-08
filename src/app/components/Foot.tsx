@@ -6,7 +6,7 @@ function Foot() {
         <div>
         <footer className="text-blue-500 p-6 m-4 mt-6">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-        {/* Row 1: Morent and its Vision */}
+     
         <div>
           <h2 className="text-2xl font-bold mb-4">Morent</h2>
           <p className="text-gray-500">
@@ -14,7 +14,7 @@ function Foot() {
           </p>
         </div>
 
-        {/* Row 2: About */}
+   
         <div>
           <h3 className="text-xl font-semibold mb-4">About</h3>
           <ul className="space-y-2">
@@ -36,7 +36,7 @@ function Foot() {
           </ul>
         </div>
 
-        {/* Row 3: Community */}
+     
         <div>
           <h3 className="text-xl font-semibold mb-4">Community</h3>
           <ul className="space-y-2">
@@ -58,7 +58,7 @@ function Foot() {
           </ul>
         </div>
 
-        {/* Row 4: Socials */}
+       
         <div>
           <h3 className="text-xl font-semibold mb-4">Socials</h3>
           <ul className="space-y-2">

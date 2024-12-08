@@ -4,7 +4,8 @@ const PickupDropoff = () => {
   return (
     <div className="p-6">
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 items-center">
-        {/* Pick-Up Section */}
+
+       
         <div className="flex flex-col items-start">
           <h3 className="text-lg font-semibold mb-4">Pick-Up</h3>
           <div className="mb-2 w-full">
@@ -42,12 +43,12 @@ const PickupDropoff = () => {
           </div>
         </div>
 
-        {/* Two-Way Icon */}
+      
         <div className="flex justify-center items-center">
           <FaExchangeAlt className="text-3xl text-blue-500" />
         </div>
 
-        {/* Drop-Off Section */}
+   
         <div className="flex flex-col items-start">
           <h3 className="text-lg font-semibold mb-4">Drop-Off</h3>
           <div className="mb-2 w-full">
