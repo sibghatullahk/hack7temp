@@ -92,7 +92,7 @@ function Foot() {
     </footer>
         </div>
         <div className="flex justify-center items-center space-x-4 mt-4">
-        <p className="text-gray-500 ">© 2024 Sibghat ullah. All rights reserved</p>
+        <p className="text-gray-500 ">2024 Sibghat ullah. All rights reserved</p>
         <p className="text-gray-500 hidden lg:block">Privacy & Policy</p>
         <p className="text-gray-500 hidden lg:block">Terms & Condition</p>
       </div>
